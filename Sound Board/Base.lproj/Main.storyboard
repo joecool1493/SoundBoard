@@ -112,7 +112,9 @@
                         <viewLayoutGuide key="safeArea" id="rZR-pf-rEv"/>
                     </view>
                     <connections>
+                        <outlet property="addButton" destination="56c-Bp-WEY" id="Eu1-So-vnj"/>
                         <outlet property="nameTextField" destination="h3E-2M-LWf" id="cSe-vx-Hvq"/>
+                        <outlet property="playButton" destination="uOF-In-sfy" id="Baf-pW-chL"/>
                         <outlet property="recordButton" destination="dtE-fd-v0Z" id="FRr-4N-G9Q"/>
                     </connections>
                 </viewController>
